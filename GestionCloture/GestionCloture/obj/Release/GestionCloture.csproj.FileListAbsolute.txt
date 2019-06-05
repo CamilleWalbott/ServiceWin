@@ -1,0 +1,16 @@
+C:\Users\camil\source\repos\GestionCloture\GestionCloture\bin\Release\GestionCloture.exe.config
+C:\Users\camil\source\repos\GestionCloture\GestionCloture\bin\Release\GestionCloture.exe
+C:\Users\camil\source\repos\GestionCloture\GestionCloture\bin\Release\GestionCloture.pdb
+C:\Users\camil\source\repos\GestionCloture\GestionCloture\bin\Release\MySql.Data.dll
+C:\Users\camil\source\repos\GestionCloture\GestionCloture\bin\Release\MySql.Web.dll
+C:\Users\camil\source\repos\GestionCloture\GestionCloture\bin\Release\Google.Protobuf.dll
+C:\Users\camil\source\repos\GestionCloture\GestionCloture\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\camil\source\repos\GestionCloture\GestionCloture\bin\Release\MySql.Data.xml
+C:\Users\camil\source\repos\GestionCloture\GestionCloture\bin\Release\MySql.Web.xml
+C:\Users\camil\source\repos\GestionCloture\GestionCloture\obj\Release\GestionCloture.csprojAssemblyReference.cache
+C:\Users\camil\source\repos\GestionCloture\GestionCloture\obj\Release\GestionCloture.ProjectInstaller.resources
+C:\Users\camil\source\repos\GestionCloture\GestionCloture\obj\Release\GestionCloture.csproj.GenerateResource.cache
+C:\Users\camil\source\repos\GestionCloture\GestionCloture\obj\Release\GestionCloture.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\GestionCloture\GestionCloture\obj\Release\GestionCloture.csproj.CopyComplete
+C:\Users\camil\source\repos\GestionCloture\GestionCloture\obj\Release\GestionCloture.exe
+C:\Users\camil\source\repos\GestionCloture\GestionCloture\obj\Release\GestionCloture.pdb
